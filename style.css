@@ -1,0 +1,29 @@
+body
+{
+	text-align: center;
+	background-color:rgb(249, 130, 130);
+	color:purple;
+	border: 5%;
+	
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background:lightblue;
+	border-radius: 20px;
+	 @keyframes border {
+      50% {
+        border-color: blueviolet;
+      }
+	
+	}
+}
+
+.btn{
+background-color:Pink;
+color:Blue;
+}
